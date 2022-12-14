@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="72.957">
+    <testcase classname="Ecommerce Application" name="Home Page" time="71.535">
+        <system-out><![CDATA[Given user Launch The Application...........................................passed
+When user Enters The Login Informations.....................................passed
+Then user Click The Sign-Up Button..........................................passed
+And user Get The Screenshot Of The Current Page.............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
